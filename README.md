@@ -70,7 +70,7 @@ Unique features:
 
 # <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
 
-https://github.com/Shouvik-9/INTERVIEW-TRAINER-AI-AGENT-IBM-PROJECT.git
+https://github.com/Shouvik-9
 
 # 🪩 FUTURE SCOPE
 
