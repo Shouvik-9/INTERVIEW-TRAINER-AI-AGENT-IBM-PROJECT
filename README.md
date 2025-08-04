@@ -93,7 +93,6 @@ https://github.com/Shouvik-9
 
 # 📷 SCREENSHOTS
 
-(Add screenshots of your slides and deployed agent here)
 
 # 🏞 RESOURCES
 <img width="1918" height="900" alt="Image" src="https://github.com/user-attachments/assets/77f627d1-8cff-4a11-b9f2-03000ada9b32" />
